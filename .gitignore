@@ -1,0 +1,5 @@
+.venv/
+.vscode/
+
+message.txt
+charts.py
